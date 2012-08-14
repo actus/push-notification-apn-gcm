@@ -8,8 +8,8 @@ Google Cloud Messaging service와 Apple Push Notification service를 동시에 �
 ## Installation
 
     $ mkdir node_n_push
-  $ cd node_n_push 
-  $ git clone https://github.com/actus/node_n_push.git
+	$ cd node_n_push 
+	$ git clone https://github.com/actus/node_n_push.git
 	$ cd push_node
 	$ npm install apn
 	$ npm install node-gcm
