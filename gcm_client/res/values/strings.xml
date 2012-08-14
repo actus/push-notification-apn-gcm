@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">GoogleCloudMessagingClient</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_client">ClientActivity</string>
+	<string name="server_registering">Server Registering&#8230;</string>
+	<string name="server_registered">Server Registered!</string>
+	<string name="server_register_error">Server Register Error!!</string>
+	<string name="server_unregistered">Server Unregistered!</string>
+	<string name="server_unregister_error">Server Unregister Error!!</string>
+	<string name="already_registered">Already Registered!</string>
+	<string name="gcm_registered">GCM Registered!</string>
+	<string name="gcm_unregistered">GCM Unregistered!!</string>
+	<string name="gcm_recoverable_error">GCM Recoverable Error!</string>
+	<string name="gcm_error">GCM Error!!</string>
+	<string name="gcm_message">GCM Message</string>
+	<string name="gcm_deleted">GCM Delete</string>
+	
+	<string name="unregester">unregister</string>
+</resources>
